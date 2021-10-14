@@ -1,0 +1,9 @@
+class Practice
+{
+public static void main(String args[])
+{
+    String name=args[0];
+    String lname=args[1];
+    System.out.println(name+lname);
+}
+}
